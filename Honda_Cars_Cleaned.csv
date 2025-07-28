@@ -1,0 +1,27 @@
+Model,Name,Fuel,Transmission,Location,KM_cleaned,Price_cleaned,Owner_cleaned
+2014,Honda Brio,Petrol,Auto,Mulund,34180.0,364000.0,1
+2018,Honda City,Petrol,Manual,Korum,40190.0,598000.0,1
+2018,Honda WR-V,Petrol,Manual,Goregaon,35300.0,490000.00000000006,1
+2017,Honda City,Petrol,Manual,Kandivali,43230.0,578000.0,2
+2021,Honda Amaze,Petrol,Manual,Regency,13860.0,546000.0,1
+2020,Honda Jazz,Petrol,Auto,Kandivali,31380.0,597000.0,2
+2018,Honda BR-V,Petrol,Manual,Regency,69400.0,615000.0,1
+2019,Honda Amaze,Petrol,Auto,Mulund,25720.0,525000.0,2
+2018,Honda Amaze,Petrol,Auto,Seawood,43440.0,426000.0,1
+2021,Honda Jazz,Petrol,Auto,Mulund,25620.0,627000.0,1
+2015,Honda Jazz,Petrol,Manual,Seawood,66960.0,333000.0,2
+2019,Honda Amaze,CNG,Manual,Kandivali,51240.0,550000.0,2
+2018,Honda Amaze,Diesel,Auto,Goregaon,70770.0,605000.0,1
+2020,Honda City,Petrol,Auto,Kandivali,39260.0,1019999.9999999999,1
+2023,Honda ELEVATE,Petrol,Manual,Mulund,9070.0,1430000.0,1
+2017,Honda WR-V,Petrol,Manual,Kandivali,33240.0,548000.0,1
+2022,Honda Amaze,Petrol,Auto,Mulund,13420.0,742000.0,1
+2015,Honda City,Petrol,Manual,Goregaon,59950.0,522000.0,1
+2019,Honda Amaze,Petrol,Auto,Seawood,31960.0,617000.0,1
+2018,Honda City,Petrol,Auto,Mulund,39750.0,785000.0,1
+2019,Honda City,Petrol,Auto,Regency,31770.0,755000.0,1
+2021,Honda Jazz,Petrol,Auto,Goregaon,44170.0,690000.0,1
+2018,Honda WR-V,Petrol,Manual,Regency,31900.0,580000.0,1
+2021,Honda Jazz,Petrol,Auto,Regency,29590.0,715000.0,1
+2017,Honda Jazz,Petrol,Auto,Korum,5640.0,517000.0,1
+2018,Honda WR-V,Petrol,Manual,Seawood,34190.0,546000.0,2
